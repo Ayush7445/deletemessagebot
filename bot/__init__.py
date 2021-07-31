@@ -82,6 +82,8 @@ START_MESSAGE = get_config("START_MESSAGE", (
     f"Our creator Channel 👉 @steallootdeal 👈"
     "\n\n"
     f"In case of issues, contact 👉@steallootdeal_bot 👈"
+    "\n\n"
+    f"How to use this Bot, Bot Tutorial 👉 <b>Coming Soon</b> 👈"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
