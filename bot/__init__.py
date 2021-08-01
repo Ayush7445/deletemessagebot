@@ -83,7 +83,7 @@ START_MESSAGE = get_config("START_MESSAGE", (
     "\n\n"
     f"In case of issues, contact 👉@steallootdeal_bot 👈"
     "\n\n"
-    f"How to use this Bot, Bot Tutorial 👉 <b>Coming Soon</b> 👈"
+    f"How to use this Bot, Bot Tutorial 👉 <b>https://t.me/bot_by_ayush/43</b> 👈"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
